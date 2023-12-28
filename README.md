@@ -209,6 +209,11 @@ First real customer walks in and asks where the bathroom is. The bar bursts into
 
 > <p align="left">Jen Gentleman via <a href="https://twitter.com/JenMsft/status/1418795414434717696?s=20">Twitter</a>
 
+"Why did the software tester go broke?"
+
+"Because he kept buying bugs!"
+
+> <p align="left">Tobias Aeberhard
 
 # 🙏 Contributions
 
